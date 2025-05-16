@@ -1,0 +1,24 @@
+[
+    {
+"name" : "Mikko Testaa",
+"email" : "mikko4325@gmail.com",
+"password" : "Kiisi#4576",
+"productName" : "Men Tshirt",
+"cardNumber" : "56364363357",
+"cvc" : "765",
+"month" : "08",
+"year" : "2027" 
+},
+{
+"name" : "Antti Tester",
+"email" : "antti3352@gmail.com",
+"password" : "Kala*4638",
+"productName" : "Madame Top For Women",
+"cardNumber" : "22364543354",
+"cvc" : "333",
+"month" : "04",
+"year" : "2028" 
+}
+
+
+]

@@ -1,5 +1,6 @@
 # PlayWrightWebShopAutomation  
 PlayWright WebShop test automation demo  
+-Testing https://automationexercise.com/-site
 
 Login tests:  
 -Login - valid password test
